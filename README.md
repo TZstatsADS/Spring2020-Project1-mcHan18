@@ -1,5 +1,5 @@
 # Applied Data Science @ Columbia
-## Fall 2019
+## Spring 2020
 ## Project 1: A "data story" on the songs of our times
 
 <img src="figs/title1.jpeg" width="500">
@@ -7,12 +7,12 @@
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
-Term: Fall 2019
+Term: Spring 2020
 
 + Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ This project is conducted by Mengchen Wang
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: In this project, Through my analysis of rock music, I found that rock 'n' roll has changed over the past 50 years and its emotional expression, and used it as an example to show the development of music over the past 50 years.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
